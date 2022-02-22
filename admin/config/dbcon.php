@@ -1,8 +1,8 @@
 <?php
 // $host = "localhost";
-// $username = "id17909777_patipan";
-// $password = "Jackman@2516";
-// $database = "id17909777_website";
+// $username = "id17909793_chananthon";
+// $password = "]CNT@WXd\y1sYLMM";
+// $database = "id17909793_website";
 
 $host = "localhost";
 $username = "root";

@@ -11,7 +11,7 @@
 
         <div class="col-md-4">
             <div class="card shadow" style="width: 25rem;">
-                <img src="images/services/thanos2.png" class="card-img-top" alt="images">
+                <img src="images/services/img1.png" class="card-img-top" alt="images">
                 <div class="card-body">
                     <h5 class="card-title">ส่งเสริมสนับสนุนและพัฒนา</h5>
                     <div class="underline"></div>
@@ -27,7 +27,7 @@
 
         <div class="col-md-4">
             <div class="card shadow" style="width: 25rem;">
-                <img src="images/services/thanos3.png" class="card-img-top" height="300px" alt="images">
+                <img src="images/services/img2.jpg" class="card-img-top" height="300px" alt="images">
                 <div class="card-body">
                     <h5 class="card-title">ส่งเสริมสนับสนุนและพัฒนา</h5>
                     <div class="underline"></div>
@@ -45,7 +45,7 @@
 
         <div class="col-md-4">
             <div class="card shadow" style="width: 25rem;">
-                <img src="images/services/thanos1.png" class="card-img-top" height="300px" alt="images">
+                <img src="images/services/img3.png" class="card-img-top" height="300px" alt="images">
                 <div class="card-body">
                     <h5 class="card-title">ส่งเสริมสนับสนุนและพัฒนา</h5>
                     <div class="underline"></div>
